@@ -2,7 +2,13 @@
 ## Hey all iam Muhsin Mubarack
 Data analyst | Data scientist | Aspiring Software Developer | Python Enthusiast | Open Source Learner
 I'm passionate about learning new technologies and building projects that solve real-world problems. Currently improving my skills in Python, Web Development, and Git/GitHub.
-<!--
+<!--🌟 About Me
+🌱 Currently learning Python
+💻 Interested in Software Development
+📚 Exploring Git, GitHub, and VS Code
+🎯 Goal: Become a Full Stack Developer
+⚡ Fun fact: I love learning new technologies every day.
+
 **MuhsinMubarack/MuhsinMubarack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
