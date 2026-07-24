@@ -2,7 +2,13 @@
 ## Hey all iam Muhsin Mubarack
 Data analyst | Data scientist | Aspiring Software Developer | Python Enthusiast | Open Source Learner
 I'm passionate about learning new technologies and building projects that solve real-world problems. Currently improving my skills in Python, Web Development, and Git/GitHub.
-<!--🌟 About Me
+<!--🌟 About Me<h1 align="center">
+  Hi there 👋
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand">
+</p>
 🌱 Currently learning Python
 💻 Interested in Software Development
 📚 Exploring Git, GitHub, and VS Code
